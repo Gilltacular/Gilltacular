@@ -45,8 +45,8 @@ I'm a **BS Computer Science graduate** transitioning into software development a
 ### 🔥 Featured Projects
 
 <table>
-<tr>
-<td width="33%">
+<tr valign="top">
+<td width="33%" valign="top">
 
 ### [BitHeroesOneTool](https://github.com/Gilltacular/BitHeroesOneTool)
 **Data Modeling & Database Engineering**
@@ -59,7 +59,7 @@ I'm a **BS Computer Science graduate** transitioning into software development a
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-Spreadsheet-orange)
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### [PictureScanner](https://github.com/Gilltacular/PictureScanner)
 **Secure Authentication Platform**
@@ -72,7 +72,7 @@ I'm a **BS Computer Science graduate** transitioning into software development a
 ![PHP](https://img.shields.io/badge/PHP-MySQL-darkblue)
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### [Warehouse Sorting System](https://github.com/Gilltacular/warehouse-sorting-system)
 **PLC Industrial Automation**
@@ -94,9 +94,9 @@ I'm a **BS Computer Science graduate** transitioning into software development a
 
 <div align="center">
 
-[![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilltacular&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Gilltacular&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilltacular&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilltacular&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
 
