@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Jon Gill 👋
+  Hi there, I'm Jon Gill
 </h1>
 
 <p align="center">
@@ -8,14 +8,14 @@
 
 ---
 
-### 🎯 What I'm Working On
+### What I'm Working On
 
 I'm a **BS Computer Science graduate** transitioning into software development and robotics engineering. My journey spans law enforcement investigation, IT diagnostics, and hands-on technical work — all converging toward one goal: **creating safe, intelligent systems that solve real problems**.
 
 <table>
 <tr><td>
 
-#### 🧠 Current Focus
+#### Current Focus
 - Software development (Python, C++, Java, JavaScript)
 - Industrial automation & controls (PLC, SCADA, Modbus)
 - Security research & threat analysis
@@ -23,7 +23,7 @@ I'm a **BS Computer Science graduate** transitioning into software development a
 
 </td><td>
 
-#### 🛠️ Technologies I Use
+#### Technologies I Use
 <div align="center">
 
 [![Python][Python]][Python-url]
@@ -42,7 +42,7 @@ I'm a **BS Computer Science graduate** transitioning into software development a
 
 ---
 
-### 🔥 Featured Projects
+### Featured Projects
 
 <table>
 <tr valign="top">
@@ -102,7 +102,7 @@ I'm a **BS Computer Science graduate** transitioning into software development a
 
 ---
 
-### 🎓 Background
+### Background
 
 | Credential | Details |
 |------------|---------|
@@ -113,7 +113,7 @@ I'm a **BS Computer Science graduate** transitioning into software development a
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect
 
 <div align="center">
 
@@ -125,7 +125,7 @@ I'm a **BS Computer Science graduate** transitioning into software development a
 
 ---
 
-*Open to collaboration on programming, security, robotics, and automation projects. Contributions welcome.*
+*Open to collaboration on programming, security, robotics, Linux, and automation projects. Contributions welcome.*
 
 ---
 
