@@ -107,10 +107,11 @@ I'm a **BS Computer Science graduate** transitioning into software development a
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-jonpgill@protonmail.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:jonpgill@protonmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/jongill)
+[![Email](https://img.shields.io/badge/Email-jonpgill@protonmail.com-0078D4?logo=email&logoColor=white)](mailto:jonpgill@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-orange?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/jongill)
 [![GitHub](https://img.shields.io/badge/GitHub-Gilltacular-181717?logo=github&logoColor=white)](https://github.com/Gilltacular)
-
+[![Dev.to](https://img.shields.io/badge/Dev.to-Gilltacular-brightgreen)](https://dev.to/gilltacular)
+[![X](https://img.shields.io/badge/%20-Gilltacular-181717?logo=x&logoColor=white)](https://x.com/NoDisassembl3)
 </div>
 
 ---
