@@ -88,7 +88,7 @@ I'm a **BS Computer Science graduate** transitioning into software development a
 
 ### 📊 My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gilltacular)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gilltacular&theme=dark&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
 
