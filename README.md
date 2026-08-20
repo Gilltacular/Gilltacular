@@ -92,13 +92,7 @@ I'm a **BS Computer Science graduate** transitioning into software development a
 
 ### 📊 My GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gilltacular&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilltacular&layout=compact&theme=radical" alt="Top Languages" />
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gilltacular)](https://git.io/streak-stats)
 
 ---
 
