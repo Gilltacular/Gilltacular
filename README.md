@@ -48,16 +48,12 @@ I'm a **BS Computer Science graduate** transitioning into software development a
 <tr valign="top">
 <td width="33%" valign="top">
 
-### [BitHeroesOneTool](https://github.com/Gilltacular/BitHeroesOneTool)
-**Data Modeling & Database Engineering**
-
-- LibreOffice spreadsheet engine
-- 120+ database schemas
-- 80+ fusion chain tables
-
-![Database](https://img.shields.io/badge/Database-Modeling-blue)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-Spreadsheet-orange)
-
+### [Sun Shadow Compass](https://github.com/Gilltacular/Sun-Shadow-Compass)
+**A tool for training astronauts to navigate by sun position when no magnetic compass works**
+- JavaScript
+- SunCalc.js
+- HTML/CSS
+- browser Geolocation API
 </td>
 <td width="33%" valign="top">
 
